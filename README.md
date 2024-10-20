@@ -41,7 +41,7 @@
     <a href="https://appium.io/" target="_blank" rel="noreferrer">
         <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" alt="Appium" width="40" height="40"/></a>
     <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-        <img src="https://playwright.dev/" alt="Playwright" width="40" height="40"/>
+        <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
 
 </p>
 <p>
